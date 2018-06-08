@@ -14,7 +14,7 @@
  <img src="https://poznan.dominikanie.pl/wp-content/uploads/sites/10/2016/07/andrzejdrozdswA16_021911-420x294.jpg">
  <h2> “Nie wyjdziemy na dwór” </h2>
  <hr>
- <img src="https://i.ytimg.com/vi/gInA94HlYWA/maxresdefault.jpg">
+
  <a href="http://SmoothieG.github.io">fajna stronka </a>
 <ol>
 <li>“Temat: Zeszyty z religii
@@ -32,7 +32,7 @@ ad op
 <li>Blue</li>
 <li>Green</li>
 </ul> 
- <h1><span>łowienie szczuporów itd </span></h1>
+ <h1><span>plusy andrew</span></h1>
 <table>
 <tbody><tr>
   <th>Day</th>
